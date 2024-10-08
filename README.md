@@ -29,4 +29,4 @@ I am committed to staying at the forefront of cybersecurity advancements and uti
 -  Web Application Exploitation
 -  Malware Analysis 
 -  Digital Forensics.
--  Web Listing and Car Sales Website Using Laravel and Tailwinds
+-  Web Development Using Laravel, Tailwinds and Vue Js
